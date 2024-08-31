@@ -50,3 +50,21 @@ st.text(fruityvice_response.json())
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
